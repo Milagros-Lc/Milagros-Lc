@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+const Developer = {
+    name: 'Milagros',
+    lastName: 'Leon',
+    age: 27,
+    nacionality: 'Peruvian',
+    hobbies: ['teach programming', 'learn new things','crafts','read romantic books']
+};
