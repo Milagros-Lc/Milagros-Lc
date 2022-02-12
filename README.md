@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23Bbf713&lines=Hi+there+%F0%9F%91%8B!+My+name%60s+Milagros+Leon+C...+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ffff&lines=Hi+there+%F0%9F%91%8B!+My+name%60s+Milagros+Leon+C...+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
 
 
 
@@ -39,7 +39,7 @@ const Developer = {
     </br>
      </br>
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Milagros-Lc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milagros-Lc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Milagros-Lc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>   <a>                 </a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milagros-Lc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
  </br>
  </br>
