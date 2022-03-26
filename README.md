@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ffff&lines=Hi+there+%F0%9F%91%8B!+My+name%60s+Milagros+Leon+C...+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
 
 
 
+
+<img src="https://2.bp.blogspot.com/-KaYWgXpJ-PQ/V1BpmHeCeqI/AAAAAAAAADw/iPwfi-o7pRAN230D-IXubayalXCqrP3oQCLcB/s640/Bienvenidos%2B%25281%2529.gif" width="100%">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ffff&lines=My+name%60s+Milagros+Leon+Cueva+%F0%9F%91%8B)](https://git.io/typing-svg)
 ```js
 const Developer = {
     name: 'Milagros',
@@ -15,10 +18,10 @@ const Developer = {
 ## About me 👩🏻
 
 - 🤩 I'm ``frontend Developer``
-- 👩🏻‍💻 I'm a Laboratory student.
+- 👩🏻‍💻 I'm a graduate of Laboratoria.
 - 🔭 I’m currently working on PeruSofwork https://www.perusoftwork.com/
  <p align="center">
-- Upon discovering the incredible world of software technologies, I fell in love, little by little I'm acquiring new knowledge but the most important thing is that I know! I can achieve it and I enjoy doing it! I consider myself a persevering, charismatic, self-taught person with great motivation to continue perfecting skills and growing professionally. I have managed to organize myself effectively, handling different organizational tools and I have flexibility when working in a team.
+- Upon discovering the incredible world of software technologies, I fell in love, little by little I'm acquiring new knowledge but the most important thing is that I know! I can achieve it and I enjoy doing it! I consider myself a charismatic, persevering, self-taught person with great motivation to continue perfecting skills and growing professionally. I am creative, committed, I am able to adapt to any circumstance and always give my best in any project, while I strive to work as a team. I believe that the ability to excel is one of the most important qualities for any worker. That is why I consider myself capable of improving and learning on a daily basis.
 </p>
  </br>
  
@@ -42,6 +45,9 @@ const Developer = {
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Milagros-Lc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>   <a>                 </a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milagros-Lc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
  </br>
+ 
+<img src="https://consultoresinternacionales.org/img/reunion.gif" width="100%">
+ 
  </br>
  <p align="center">Thank You 💛</p>
   </br>
